@@ -63,14 +63,13 @@ Git par la pratique
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
-<<<<<<< HEAD
+
 Nom Traore Bassiro
 Numan Gezgin
-=======
 
 Numan Gezgin
 Traoré Bassiro
 
-![alt tag](https://https://www.estiam.com/wp-content/uploads/logo_estiam.jpeg)
+![alt tag](https://www.estiam.com/wp-content/home/images/logo/bnp.png)
 
 >>>>>>> 7035e1eaf72eba3aa83e71f2ad69f29a0a19e245
